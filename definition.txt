@@ -1,0 +1,17 @@
+Cual es la palabra que se usa para definir un metodo?
+def
+
+Los parentesis son opcionales cuando invocamos un metodo en Ruby?
+si
+
+Cual es el mejor tipo de datos que podemos usar cuando necesitamos almacenar una lista de numeros?
+array
+
+Los metodos en Ruby solo pueden recibir uno o mas argumentos?
+no
+
+Un arreglo es un tipo de datos en donde cada valor esta asociado a una llave de cualquier tipo?
+no
+
+Que palabra marca el final de las condicionales while, until, y if?
+end
